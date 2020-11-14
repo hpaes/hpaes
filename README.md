@@ -3,7 +3,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Herbert%20Paes-0e46a8?style=round-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/herbert-paes-163418116/)
 [![Twitter Badge](https://img.shields.io/badge/-Herbert%20Paes-0e76a8?style=round-square&logo=Twitter&logoColor=white)](https://twitter.com/herbertpaes1)
 
+<br>
+
 A Chemichal Engineering graduate from Brazil, who's transitioning into Software Engineering. I'm fascinated in learning and exploring what technologies has to offer and how it can be used to help people solving day-to-day life problems.
+
 
 ## Skills and Tools
 <code>
