@@ -1,6 +1,6 @@
 ## Hello Github!! I'm [Herbert Paes!](https://github.com/hpaes/) <img src="https://raw.githubusercontent.com/hpaes/hpaes/master/gifs/Hi.gif" width="30px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Herbert%20Paes-0e46a8?style=round-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/herbert-paes-163418116/)
+[![Linkedin Badge](https://img.shields.io/badge/-Herbert%20Paes-0e46a8?style=round-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/herbert-paes/)
 [![Twitter Badge](https://img.shields.io/badge/-Herbert%20Paes-0e76a8?style=round-square&logo=Twitter&logoColor=white)](https://twitter.com/herbertpaes1)
 
 <br>
@@ -30,6 +30,5 @@ A Chemichal Engineering graduate from Brazil, who's transitioning into Software 
 
 ## Currently learning
 <code>
-  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular">
   <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt="dotnet">
 </code>
