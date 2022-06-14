@@ -1,4 +1,4 @@
-## Hello Github!! I'm [Herbert Paes!](https://github.com/hpaes/) <img src="https://raw.githubusercontent.com/hpaes/hpaes/master/gifs/Hi.gif" width="15px">
+## Hello Github!! I'm [Herbert Paes!](https://github.com/hpaes/) <img src="https://raw.githubusercontent.com/hpaes/hpaes/master/gifs/Hi.gif" width="5px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Herbert%20Paes-0e46a8?style=round-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/herbert-paes/)
 [![Twitter Badge](https://img.shields.io/badge/-Herbert%20Paes-0e76a8?style=round-square&logo=Twitter&logoColor=white)](https://twitter.com/herbertpaes1)
